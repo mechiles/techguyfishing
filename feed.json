@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tech Guy Fishing",
+    "description": "",
+    "home_page_url": "https://mechiles.github.io/techguyfishing",
+    "feed_url": "https://mechiles.github.io/techguyfishing/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mark E. Chiles"
+    },
+    "items": [
+        {
+            "id": "https://mechiles.github.io/techguyfishing/new-years-day-catfish-with-my-daughter/",
+            "url": "https://mechiles.github.io/techguyfishing/new-years-day-catfish-with-my-daughter/",
+            "title": "New Year&#x27;s Day Catfish with my Daughter",
+            "summary": " Maddie and I go to Lake Woodlands and Lake Holcombe to catch some big channel catfish! The baits we caught them on?? Chicken Liver and Strawberry Jello Garlic Hotdogs! Be Sure to SUBSCRIBE for New Videos Every Week - http://bit.ly/2LVRobp Follow me on Social Media:&hellip;",
+            "content_html": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fe6_jdAnng\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Maddie and I go to Lake Woodlands and Lake Holcombe to catch some big channel catfish!</p>\n<p>The baits we caught them on?? Chicken Liver and Strawberry Jello Garlic Hotdogs!</p>\n<p>Be Sure to SUBSCRIBE for New Videos Every Week - <a href=\"http://bit.ly/2LVRobp\" target=\"_blank\" rel=\"noopener noreferrer\">http://bit.ly/2LVRobp</a></p>\n<p>Follow me on Social Media:</p>\n<p>Twitter - <a href=\"https://www.twitter.com/techguyfishing\">https://twitter.com/techguyfishing<br></a>Instagram - <a href=\"https://www.instagram.com/techguyfishing\" rel=\"nofollow\">https://instagram.com/techguyfishing<br></a>Facebook - <a href=\"https://facebook.com/techguyfishing\" rel=\"nofollow\">https://facebook.com/techguyfishing</a></p>",
+            "image": "https://mechiles.github.io/techguyfishing/media/posts/1/20190101_121222_HDR.jpg",
+            "author": {
+                "name": "Mark E. Chiles"
+            },
+            "tags": [
+                   "techguyfishing",
+                   "techguy fishing",
+                   "tech guy fishing",
+                   "lake woodlands",
+                   "fishing",
+                   "dock",
+                   "channelcatfish",
+                   "channel catfish",
+                   "channel",
+                   "catfish",
+                   "bankfishing",
+                   "bank fishing",
+                   "bank"
+            ],
+            "date_published": "2019-01-08T11:50:28-06:00",
+            "date_modified": "2019-01-08T11:56:26-06:00"
+        }
+    ]
+}

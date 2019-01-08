@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tech Guy Fishing</title>
+    <link href="https://mechiles.github.io/techguyfishing/feed.xml" rel="self" />
+    <link href="https://mechiles.github.io/techguyfishing" />
+    <updated>2019-01-08T13:24:59-06:00</updated>
+    <author>
+        <name>Mark E. Chiles</name>
+    </author>
+    <id>https://mechiles.github.io/techguyfishing</id>
+
+    <entry>
+        <title>New Year&#x27;s Day Catfish with my Daughter</title>
+        <author>
+            <name>Mark E. Chiles</name>
+        </author>
+        <link href="https://mechiles.github.io/techguyfishing/new-years-day-catfish-with-my-daughter/"/>
+        <id>https://mechiles.github.io/techguyfishing/new-years-day-catfish-with-my-daughter/</id>
+            <category term="techguyfishing"/>
+            <category term="techguy fishing"/>
+            <category term="tech guy fishing"/>
+            <category term="lake woodlands"/>
+            <category term="fishing"/>
+            <category term="dock"/>
+            <category term="channelcatfish"/>
+            <category term="channel catfish"/>
+            <category term="channel"/>
+            <category term="catfish"/>
+            <category term="bankfishing"/>
+            <category term="bank fishing"/>
+            <category term="bank"/>
+
+        <updated>2019-01-08T11:56:26-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mechiles.github.io/techguyfishing/media/posts/1/20190101_121222_HDR.jpg" alt="Channel Catfish caught at Lake Woodlands" />
+                     Maddie and I go to Lake Woodlands and Lake Holcombe to catch some big channel catfish! The baits we caught them on?? Chicken Liver and Strawberry Jello Garlic Hotdogs! Be Sure to SUBSCRIBE for New Videos Every Week - http://bit.ly/2LVRobp Follow me on Social Media:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mechiles.github.io/techguyfishing/media/posts/1/20190101_121222_HDR.jpg" alt="Channel Catfish caught at Lake Woodlands" />
+                <p><iframe width="560" height="315" src="https://www.youtube.com/embed/7fe6_jdAnng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Maddie and I go to Lake Woodlands and Lake Holcombe to catch some big channel catfish!</p>
+<p>The baits we caught them on?? Chicken Liver and Strawberry Jello Garlic Hotdogs!</p>
+<p>Be Sure to SUBSCRIBE for New Videos Every Week - <a href="http://bit.ly/2LVRobp" target="_blank" rel="noopener noreferrer">http://bit.ly/2LVRobp</a></p>
+<p>Follow me on Social Media:</p>
+<p>Twitter - <a href="https://www.twitter.com/techguyfishing">https://twitter.com/techguyfishing<br></a>Instagram - <a href="https://www.instagram.com/techguyfishing" rel="nofollow">https://instagram.com/techguyfishing<br></a>Facebook - <a href="https://facebook.com/techguyfishing" rel="nofollow">https://facebook.com/techguyfishing</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

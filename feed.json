@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Tech Guy Fishing",
     "description": "",
-    "home_page_url": "https://mechiles.github.io/techguyfishing",
-    "feed_url": "https://mechiles.github.io/techguyfishing/feed.json",
+    "home_page_url": "https://www.techguyfishing.com",
+    "feed_url": "https://www.techguyfishing.com/feed.json",
     "user_comment": "",
-    "icon": "https://mechiles.github.io/techguyfishing/media/website/TGF-logo.png",
+    "icon": "https://www.techguyfishing.com/media/website/TGF-logo.png",
     "author": {
         "name": "Mark E. Chiles"
     },
     "items": [
         {
-            "id": "https://mechiles.github.io/techguyfishing/new-spot-full-of-fish/",
-            "url": "https://mechiles.github.io/techguyfishing/new-spot-full-of-fish/",
+            "id": "https://www.techguyfishing.com/new-spot-full-of-fish/",
+            "url": "https://www.techguyfishing.com/new-spot-full-of-fish/",
             "title": "New Spot Full of Fish??",
             "summary": " We try out a new spot, Spring Trails Lake, that we found on Fishbrain (no affiliation with Fishbrain, I just like the app) which had a ton of catches logged. We tried nightcrawlers, chicken livers, strawberry garlic hot dogs, cherry jello bacon and lures&hellip;",
             "content_html": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TNdqvRiav0I\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>We try out a new spot, Spring Trails Lake, that we found on Fishbrain (no affiliation with Fishbrain, I just like the app) which had a ton of catches logged. We tried nightcrawlers, chicken livers, strawberry garlic hot dogs, cherry jello bacon and lures to try to see if we can find the same fish as we've seen logged.</p>\n<p>Be Sure to SUBSCRIBE for New Videos Every Week - <a href=\"http://bit.ly/2LVRobp\" target=\"_blank\" rel=\"noopener noreferrer\">http://bit.ly/2LVRobp</a></p>\n<p>Follow me on Social Media:<br>Twitter - <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?redir_token=gM1B0KJm7Ir3GUSLW4O_TrbgyD18MTU0NzA2NjExM0AxNTQ2OTc5NzEz&amp;event=video_description&amp;v=TNdqvRiav0I&amp;q=https%3A%2F%2Ftwitter.com%2Ftechguyfishing\" rel=\"nofollow\">https://twitter.com/techguyfishing<br></a>Instagram - <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?redir_token=gM1B0KJm7Ir3GUSLW4O_TrbgyD18MTU0NzA2NjExM0AxNTQ2OTc5NzEz&amp;event=video_description&amp;v=TNdqvRiav0I&amp;q=https%3A%2F%2Finstagram.com%2Ftechguyfishing\" rel=\"nofollow\">https://instagram.com/techguyfishing<br></a>Facebook - <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/redirect?redir_token=gM1B0KJm7Ir3GUSLW4O_TrbgyD18MTU0NzA2NjExM0AxNTQ2OTc5NzEz&amp;event=video_description&amp;v=TNdqvRiav0I&amp;q=https%3A%2F%2Ffacebook.com%2Ftechguyfishing\" rel=\"nofollow\">https://facebook.com/techguyfishing</a></p>",
-            "image": "https://mechiles.github.io/techguyfishing/media/posts/2/MainImagePlayButton.png",
+            "image": "https://www.techguyfishing.com/media/posts/2/MainImagePlayButton.png",
             "author": {
                 "name": "Mark E. Chiles"
             },
@@ -37,12 +37,12 @@
             "date_modified": "2019-01-08T14:42:34-06:00"
         },
         {
-            "id": "https://mechiles.github.io/techguyfishing/new-years-day-catfish-with-my-daughter/",
-            "url": "https://mechiles.github.io/techguyfishing/new-years-day-catfish-with-my-daughter/",
+            "id": "https://www.techguyfishing.com/new-years-day-catfish-with-my-daughter/",
+            "url": "https://www.techguyfishing.com/new-years-day-catfish-with-my-daughter/",
             "title": "New Year&#x27;s Day Catfish with my Daughter",
             "summary": " Maddie and I go to Lake Woodlands and Lake Holcombe to catch some big channel catfish! The baits we caught them on?? Chicken Liver and Strawberry Jello Garlic Hotdogs! Be Sure to SUBSCRIBE for New Videos Every Week - http://bit.ly/2LVRobp Follow me on Social Media:&hellip;",
             "content_html": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fe6_jdAnng\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Maddie and I go to Lake Woodlands and Lake Holcombe to catch some big channel catfish!</p>\n<p>The baits we caught them on?? Chicken Liver and Strawberry Jello Garlic Hotdogs!</p>\n<p>Be Sure to SUBSCRIBE for New Videos Every Week - <a href=\"http://bit.ly/2LVRobp\" target=\"_blank\" rel=\"noopener noreferrer\">http://bit.ly/2LVRobp</a></p>\n<p>Follow me on Social Media:</p>\n<p>Twitter - <a href=\"https://www.twitter.com/techguyfishing\">https://twitter.com/techguyfishing<br></a>Instagram - <a href=\"https://www.instagram.com/techguyfishing\" rel=\"nofollow\">https://instagram.com/techguyfishing<br></a>Facebook - <a href=\"https://facebook.com/techguyfishing\" rel=\"nofollow\">https://facebook.com/techguyfishing</a></p>",
-            "image": "https://mechiles.github.io/techguyfishing/media/posts/1/testplaybutton.png",
+            "image": "https://www.techguyfishing.com/media/posts/1/testplaybutton.png",
             "author": {
                 "name": "Mark E. Chiles"
             },
